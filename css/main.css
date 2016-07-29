@@ -1,0 +1,14 @@
+.absolute {
+  position: fixed;
+  background: #2da6cb;
+  color: #000000;
+  right: 30px;
+  bottom: 30px;
+  border-radius: 100%;
+  width: 90px;
+  height: 90px;
+  padding: 30px;
+  font-size: 20px;
+  text-align: center;
+	z-index: 9999;
+}
